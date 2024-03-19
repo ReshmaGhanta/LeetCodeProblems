@@ -5,7 +5,6 @@
  */
 var findMaxAverage = function(nums, k) {
     let left=0;
-    let right=0;
     let average=0;
     let sum=0;
     let maxSum=-Infinity
