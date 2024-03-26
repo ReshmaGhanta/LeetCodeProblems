@@ -20,7 +20,6 @@ let count=0
         }
 
         max=Math.max(max,count);
-        if(max===k) return max;
     }
 
     return max;
