@@ -11,3 +11,5 @@ var maxDepth = function(root) {
         }
     
 };
+
+/* Note: The height of an empty tree is 0 and the height of a tree with single node is 1. */
