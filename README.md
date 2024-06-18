@@ -32,7 +32,13 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0633-sum-of-square-numbers) |
 # Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0633-sum-of-square-numbers) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0633-sum-of-square-numbers) |
