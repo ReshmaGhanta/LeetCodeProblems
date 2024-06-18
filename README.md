@@ -5,12 +5,14 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0217-contains-duplicate](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 
 
 # Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 # Divide and Conquer
@@ -22,6 +24,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 # Counting
 |  |
