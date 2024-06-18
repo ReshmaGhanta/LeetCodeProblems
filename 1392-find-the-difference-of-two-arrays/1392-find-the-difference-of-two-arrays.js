@@ -4,13 +4,15 @@
  * @return {number[][]}
  */
 var findDifference = function(nums1, nums2) {
-    nums1=new Set(nums1);
-    nums2=new Set(nums2);
-   for (let item of nums1){
-        if (nums2.has(item)) {
-            nums1.delete(item)
-            nums2.delete(item)
+    let unique1=new Set(nums1);
+    let unique2=new Set(nums2);
+
+    for(item of unique1){
+        if(unique2.has(item)){
+            unique1.delete(item);
+            unique2.delete(item);
         }
     }
- return [[...nums1],[...nums2]]
+    
+    return [[...unique1],[...unique2]]
 };
