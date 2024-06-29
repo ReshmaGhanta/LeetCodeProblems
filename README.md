@@ -45,3 +45,18 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0633-sum-of-square-numbers) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ReshmaGhanta/LeetCodeProblems/tree/master/0202-happy-number) |
+<!---LeetCode Topics End-->
